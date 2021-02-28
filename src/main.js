@@ -3,8 +3,8 @@ let style = document.querySelector("#style")
 
 let n = 0
 let string = `/* 你好，我是一名bug工程师
- * 接下来我要加样式了
- * 准备一个div
+ * 接下来我要造一个八卦图
+ * 先准备一个div
  */
 #div1{
     width: 200px;
